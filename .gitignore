@@ -1,0 +1,8 @@
+node_modules/
+.env
+data/state.json
+data/cookies.json
+test/fixtures/.raw-capture.html
+*.log
+.DS_Store
+data/*.tmp

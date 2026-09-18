@@ -1,0 +1,30 @@
+{
+  "pollIntervalMs": 45000,
+  "confirmReads": 2,
+  "cooldownMs": 1800000,
+  "concurrency": 2,
+  "heartbeatHours": 24,
+  "requestTimeoutMs": 20000,
+  "items": [
+    {
+      "label": "Dawn Platinum Dish Soap 431ML",
+      "url": "https://www.walmart.ca/en/ip/Dawn-Platinum-Dishwashing-Liquid-Dish-Soap-Refreshing-Rain-Scent-431ML/3VUILBNN8GIG",
+      "channel": "any"
+    },
+    {
+      "label": "Mainstays 2-Slice Toaster (Black)",
+      "url": "https://www.walmart.ca/en/ip/Mainstays-2-Slice-Toaster-with-6-Shade-Settings-and-Removable-Crumb-Tray-Rich-Black/6000203334387",
+      "channel": "any"
+    },
+    {
+      "label": "PlayStation 5 Pro Console",
+      "url": "https://www.walmart.ca/en/ip/1SZQHN3LOSE0",
+      "channel": "any"
+    },
+    {
+      "label": "PlayStation 5 Digital Edition (Slim)",
+      "url": "https://www.walmart.ca/en/ip/6000207352799",
+      "channel": "any"
+    }
+  ]
+}
